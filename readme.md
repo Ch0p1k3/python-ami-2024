@@ -12,6 +12,6 @@
 - [PyCharm](notes/pycharm.md)
 - [Jupyter notebook](notes/notebook.md)
 - [Bash/Zsh](notes/notebook.md)
-- [Git and GitHub](notes/git)
+- [Git and GitHub](notes/git.md)
 - [MacOS brew](notes/macos_brew.md)
 - [WSL](notes/wsl.md)
