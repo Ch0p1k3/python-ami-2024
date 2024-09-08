@@ -4,6 +4,6 @@ Black - форматтер для python
 
 ## Установка и использование
 ```bash
-pip install black # в первый раз
-black file.py # использование
+python3 -m pip install black  # установка
+black file.py  # использование
 ```

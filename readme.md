@@ -16,3 +16,4 @@
 - [MacOS brew](notes/macos_brew.md)
 - [WSL](notes/wsl.md)
 - [Black formatter](notes/black.md)
+- [isort](notes/isort.md)
