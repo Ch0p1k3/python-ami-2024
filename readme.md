@@ -15,3 +15,4 @@
 - [Git and GitHub](notes/git.md)
 - [MacOS brew](notes/macos_brew.md)
 - [WSL](notes/wsl.md)
+- [Black formatter](notes/black.md)

@@ -15,6 +15,8 @@
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) для запуска питон скрипта из интерфейса `VsCode`.
 - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) для того, чтобы открывать тетрадки.
 - [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) - опционально, позволяет сортировать строки в файле. Надо выделить и нажать `F9`. Я в основном пользуюсь для того, чтобы сортировать импорты.
+- [Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter) - black форматер, вообще black это утилита которая форматирует python код, скорее всего если вы им будете пользоваться то на контесте все будет проходить, но хочется заметить, что [black нарушает pep8](https://github.com/psf/black/issues/1178?ysclid=m0p8xjbrzq927128426). Смотри также [black](black.md)
+- [isort][https://marketplace.visualstudio.com/items?itemName=ms-python.isort] - сортирует импорты, я лично не пользуюсь этим расширением, я пользуюсь [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines).
 
 ## Полезные комбинации клавиш
 
