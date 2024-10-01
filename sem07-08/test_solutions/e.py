@@ -6,5 +6,8 @@ def main():
     print(len(pts))
 
 
+# 0 1   input() -> "0 1", .split() -> ["0", "1"], [0] -> "0"
+# 0 2
+
 if __name__ == "__main__":
     main()
